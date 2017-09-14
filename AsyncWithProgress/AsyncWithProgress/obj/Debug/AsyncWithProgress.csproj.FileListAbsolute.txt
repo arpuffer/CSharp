@@ -1,0 +1,14 @@
+C:\Users\v-alpuff\documents\visual studio 2017\Projects\AsyncWithProgress\AsyncWithProgress\bin\Debug\AsyncWithProgress.exe.config
+C:\Users\v-alpuff\documents\visual studio 2017\Projects\AsyncWithProgress\AsyncWithProgress\bin\Debug\AsyncWithProgress.exe
+C:\Users\v-alpuff\documents\visual studio 2017\Projects\AsyncWithProgress\AsyncWithProgress\bin\Debug\AsyncWithProgress.pdb
+C:\Users\v-alpuff\documents\visual studio 2017\Projects\AsyncWithProgress\AsyncWithProgress\obj\Debug\AsyncWithProgress.csprojResolveAssemblyReference.cache
+C:\Users\v-alpuff\documents\visual studio 2017\Projects\AsyncWithProgress\AsyncWithProgress\obj\Debug\MainWindow.g.cs
+C:\Users\v-alpuff\documents\visual studio 2017\Projects\AsyncWithProgress\AsyncWithProgress\obj\Debug\App.g.cs
+C:\Users\v-alpuff\documents\visual studio 2017\Projects\AsyncWithProgress\AsyncWithProgress\obj\Debug\AsyncWithProgress_MarkupCompile.cache
+C:\Users\v-alpuff\documents\visual studio 2017\Projects\AsyncWithProgress\AsyncWithProgress\obj\Debug\AsyncWithProgress_MarkupCompile.lref
+C:\Users\v-alpuff\documents\visual studio 2017\Projects\AsyncWithProgress\AsyncWithProgress\obj\Debug\MainWindow.baml
+C:\Users\v-alpuff\documents\visual studio 2017\Projects\AsyncWithProgress\AsyncWithProgress\obj\Debug\AsyncWithProgress.g.resources
+C:\Users\v-alpuff\documents\visual studio 2017\Projects\AsyncWithProgress\AsyncWithProgress\obj\Debug\AsyncWithProgress.Properties.Resources.resources
+C:\Users\v-alpuff\documents\visual studio 2017\Projects\AsyncWithProgress\AsyncWithProgress\obj\Debug\AsyncWithProgress.csproj.GenerateResource.Cache
+C:\Users\v-alpuff\documents\visual studio 2017\Projects\AsyncWithProgress\AsyncWithProgress\obj\Debug\AsyncWithProgress.exe
+C:\Users\v-alpuff\documents\visual studio 2017\Projects\AsyncWithProgress\AsyncWithProgress\obj\Debug\AsyncWithProgress.pdb
